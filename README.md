@@ -18,7 +18,7 @@ Below you will find some information on how to test both assignments.
 
 3. change `expectedResult` to the number of castles expected to be returned
 
-4. open terminal and type `npm run test` to see if test passed.
+4. open terminal and type `npm run test` to start Jest
 
 5. press key `A` on your keyboard to run all tests
 
